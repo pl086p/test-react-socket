@@ -1,0 +1,6 @@
+{
+  "GEP_02": { "Version": "3.0.0", "stationID":  2, "Level": 2, "message": "02-02-02-02"  },
+  "GEP_06": { "Version": "3.0.0", "stationID":  6, "Level": 3, "message": "06-06-06-06"  },
+  "GEP_18": { "Version": "3.0.0", "stationID": 18, "Level": 4, "message": "18-18-18-18"  },
+  "GEP_23": { "Version": "3.0.0", "stationID": 23, "Level": 5, "message": "23-23-23-23"  }
+}
